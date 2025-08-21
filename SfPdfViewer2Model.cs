@@ -1,9 +1,9 @@
 ﻿using DevExpress.ExpressApp.Blazor.Components.Models;
-using JMTech.ExpressApp.Blazor.Editors.Renderers;
+using AvTex.ExpressApp.Blazor.Editors.Renderers;
 using Microsoft.AspNetCore.Components;
 using Syncfusion.Blazor.SfPdfViewer;
 
-namespace JMTech.ExpressApp.Blazor.Editors.Models;
+namespace AvTex.ExpressApp.Blazor.Editors.Models;
 
 public class SfPdfViewer2Model : ComponentModelBase
 {
